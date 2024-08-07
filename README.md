@@ -12,8 +12,11 @@ ___
 # Contenido
 
 ### Introducción 
-
+ 
+ * **[Facilitadores]()**
+   
  * **[¿Qué es Python?]()**
+   
  * **[Google Colab]()**  
 
 ### Tipos de Datos y Variables
