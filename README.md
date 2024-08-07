@@ -12,14 +12,14 @@ ___
 # Contenido
 
 ### Introducción 
- 
- * **[Facilitadores]()**
    
  * **[¿Qué es Python?](https://github.com/URC-LCDN/python_basics/blob/main/Introduccion_Python.ipynb)**
    
  * **[¿Donde ejecutar?](https://github.com/URC-LCDN/python_basics/blob/main/Donde_Ejecutar_Python.ipynb)**  
 
 ### Tipos de Datos y Variables
+ * **[Variables](https://github.com/URC-LCDN/python_basics/blob/main/Variables.ipynb)**
+ 
  * **[Enteros y flotantes]()**  
 
  * **[Cadenas de textos]()**  
@@ -28,7 +28,7 @@ ___
 
  * **[Arreglos]()**  
 
- * **[Diccionarios]()**  
+ * **[Diccionarios](https://github.com/URC-LCDN/python_basics/blob/main/Diccionarios.ipynb)**  
 
 ### Operadores y Expresiones
 
@@ -48,20 +48,19 @@ ___
  * **[Funciones]()**  
 
 ### Manejo de Errores 
-
- * **[Errores Clásicos]()**  
+ * **[Palabras Reservadas]()**
+   
+ * **[Errores Clásicos]()**
+   
  * **[Try-Except]()**
 
 ### Módulos/Paquetes
 
- * **[¿Que es un módulo?]()**  
- * **Algunos Módulos** 
-     * **[OS]()**  
-     * **[Math]()**  
+ * **[¿Cómo usar los módulos?](https://github.com/URC-LCDN/python_basics/blob/main/Importar_Modulos.ipynb)**  
+ * **Algunos Módulos**  
      * **[Statics]()**  
-     * **[Numpy]()**  
-     * **[Pandas]()**  
-
+     * **[Numpy](https://github.com/URC-LCDN/python_basics/blob/main/Copia_de_Intro_Numpy.ipynb)**  
+     * **[Pandas](https://github.com/URC-LCDN/python_basics/blob/main/Intro_Pandas_con_datos_del_sistema_Ajolote.ipynb)**  
 ___
 
 ## Errores & Sugerencias
