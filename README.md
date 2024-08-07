@@ -20,45 +20,45 @@ ___
 ### Tipos de Datos y Variables
  * **[Variables](https://github.com/URC-LCDN/python_basics/blob/main/Variables.ipynb)**
  
- * **[Enteros y flotantes]()**  
+ * **[Enteros y flotantes]**  
 
- * **[Cadenas de textos]()**  
+ * **[Cadenas de textos]**  
 
- * **[Booleanos]()**  
+ * **[Booleanos]**  
 
- * **[Arreglos]()**  
+ * **[Arreglos]**  
 
  * **[Diccionarios](https://github.com/URC-LCDN/python_basics/blob/main/Diccionarios.ipynb)**  
 
 ### Operadores y Expresiones
 
- * **[Expresiones aritmeticas]()**  
+ * **[Expresiones aritmeticas]**  
 
- * **[Operadores de comparación]()**  
+ * **[Operadores de comparación]**  
 
- * **[Operadores lógicos]()**  
+ * **[Operadores lógicos]**  
  
 ### Estructuras de Control
 
-* **[Condicionales (if, elif, else)]()**  
+* **[Condicionales (if, elif, else)]**  
 
-* **[Bucles (for, while)]()**  
+* **[Bucles (for, while)]**  
 
 ### Funciones
- * **[Funciones]()**  
+ * **[Funciones]**  
 
 ### Manejo de Errores 
- * **[Palabras Reservadas]()**
+ * **[Palabras Reservadas]**
    
- * **[Errores Clásicos]()**
+ * **[Errores Clásicos]**
    
- * **[Try-Except]()**
+ * **[Try-Except]**
 
 ### Módulos/Paquetes
 
  * **[¿Cómo usar los módulos?](https://github.com/URC-LCDN/python_basics/blob/main/Importar_Modulos.ipynb)**  
  * **Algunos Módulos**  
-     * **[Statics]()**  
+     * **[Statics]**  
      * **[Numpy](https://github.com/URC-LCDN/python_basics/blob/main/Copia_de_Intro_Numpy.ipynb)**  
      * **[Pandas](https://github.com/URC-LCDN/python_basics/blob/main/Intro_Pandas_con_datos_del_sistema_Ajolote.ipynb)**  
 ___
