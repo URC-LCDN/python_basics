@@ -59,7 +59,7 @@ ___
  * **[¿Cómo usar los módulos?](https://github.com/URC-LCDN/python_basics/blob/main/Importar_Modulos.ipynb)**  
  * **Algunos Módulos**  
      * **[Statics]**  
-     * **[Numpy](https://github.com/URC-LCDN/python_basics/blob/main/Copia_de_Intro_Numpy.ipynb)**  
+     * **[Numpy](https://github.com/URC-LCDN/python_basics/blob/main/Intro_Numpy.ipynb)**  
      * **[Pandas](https://github.com/URC-LCDN/python_basics/blob/main/Intro_Pandas_con_datos_del_sistema_Ajolote.ipynb)**  
 ___
 
