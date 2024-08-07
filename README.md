@@ -13,7 +13,8 @@ ___
 
 ### Introducción 
 
- * **[Introducción]()**  
+ * **[Introducción]()**
+ * **[Google Colab]()**  
 
 
 ### Tipos de Datos y Variables
