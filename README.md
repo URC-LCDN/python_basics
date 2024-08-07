@@ -17,7 +17,7 @@ ___
    
  * **[¿Qué es Python?](https://github.com/URC-LCDN/python_basics/blob/main/Introduccion_Python.ipynb)**
    
- * **[Google Colab]()**  
+ * **[¿Donde ejecutar?](https://github.com/URC-LCDN/python_basics/blob/main/Donde_Ejecutar_Python.ipynb)**  
 
 ### Tipos de Datos y Variables
  * **[Enteros y flotantes]()**  
