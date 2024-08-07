@@ -20,7 +20,7 @@ ___
 ### Tipos de Datos y Variables
  * **[Variables](https://github.com/URC-LCDN/python_basics/blob/main/Variables.ipynb)**
  
- * **[Enteros y flotantes]**  
+ * **[Enteros y flotantes](https://github.com/URC-LCDN/python_basics/blob/main/Variables_Int_Float.ipynb)**  
 
  * **[Cadenas de textos]**  
 
