@@ -15,7 +15,7 @@ ___
  
  * **[Facilitadores]()**
    
- * **[¿Qué es Python?]()**
+ * **[¿Qué es Python?](https://github.com/URC-LCDN/python_basics/blob/main/Introduccion_Python.ipynb)**
    
  * **[Google Colab]()**  
 
