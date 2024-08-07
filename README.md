@@ -13,9 +13,8 @@ ___
 
 ### Introducción 
 
- * **[Introducción]()**
+ * **[¿Qué es Python?]()**
  * **[Google Colab]()**  
-
 
 ### Tipos de Datos y Variables
  * **[Enteros y flotantes]()**  
