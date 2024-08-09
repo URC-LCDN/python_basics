@@ -22,7 +22,7 @@ ___
  
  * **[Enteros y flotantes](https://github.com/URC-LCDN/python_basics/blob/main/Variables_Int_Float.ipynb)**  
 
- * **[Cadenas de textos]**  
+ * **[Cadenas de textos](https://github.com/URC-LCDN/python_basics/blob/main/Cadenas.ipynb)**  
 
  * **[Booleanos]**  
 
