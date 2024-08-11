@@ -30,13 +30,11 @@ ___
 
  * **[Diccionarios](https://github.com/URC-LCDN/python_basics/blob/main/Diccionarios.ipynb)**  
 
-### Operadores y Expresiones
+### Operadores
 
- * **[Expresiones aritmeticas]**  
+ * **[Operadores_ aritmeticos y lógicos](https://github.com/URC-LCDN/python_basics/blob/main/Operadores_aritm%C3%A9ticos_y_l%C3%B3gicos.ipynb)**  
 
  * **[Operadores de comparación]**  
-
- * **[Operadores lógicos]**  
  
 ### Estructuras de Control
 
