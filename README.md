@@ -34,7 +34,7 @@ ___
 
  * **[Operadores aritmeticos y lógicos](https://github.com/URC-LCDN/python_basics/blob/main/Operadores_aritm%C3%A9ticos_y_l%C3%B3gicos.ipynb)**  
 
- * **[Operadores de comparación](https://github.com/URC-LCDN/python_basics/blob/main/Operadores_L%C3%B3gicos.ipynb)**  
+ * **[Operadores de comparación](https://github.com/URC-LCDN/python_basics/blob/main/Operadores_de_Comparacion.ipynb)**  
  
 ### Estructuras de Control
 
