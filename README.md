@@ -26,7 +26,7 @@ ___
 
  * **[Booleanos](https://github.com/URC-LCDN/python_basics/blob/main/Booleanos.ipynb)**  
 
- * **[Arreglos]**  
+ * **[Arreglos](https://github.com/URC-LCDN/python_basics/blob/main/Listas.ipynb)**  
 
  * **[Diccionarios](https://github.com/URC-LCDN/python_basics/blob/main/Diccionarios.ipynb)**  
 
