@@ -40,7 +40,7 @@ ___
 
 * **[Condicionales (if, elif, else)]**  
 
-* **[Bucles (for, while)]**  
+* **[Bucles (for, while)] (https://github.com/URC-LCDN/python_basics/blob/main/Ciclo_For_While.ipynb)**  
 
 ### Funciones
  * **[Funciones]**  
