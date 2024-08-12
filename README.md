@@ -48,7 +48,7 @@ ___
 ### Manejo de Errores 
  * **[Palabras Reservadas](https://github.com/URC-LCDN/python_basics/blob/main/Funciones_Nativas_y_Palabras_Reservadas.ipynb)**
    
- * **[Errores Clásicos]**
+ * **[Errores Clásicos](https://github.com/URC-LCDN/python_basics/blob/main/Errores_de_Python.ipynb)**
    
  * **[Try-Except](https://github.com/URC-LCDN/python_basics/blob/main/Manejos_de_Errores.ipynb)**
 
