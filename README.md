@@ -38,9 +38,9 @@ ___
  
 ### Estructuras de Control
 
-* **[Condicionales (if, elif, else)]**  
+* **[Condicionales (if, elif, else)](https://github.com/URC-LCDN/python_basics/blob/main/Condicionales.ipynb)**  
 
-* **[Bucles (for, while)] (https://github.com/URC-LCDN/python_basics/blob/main/Ciclo_For_While.ipynb)**  
+* **[Bucles (for, while)](https://github.com/URC-LCDN/python_basics/blob/main/Ciclo_For_While.ipynb)**  
 
 ### Funciones
  * **[Funciones]**  
