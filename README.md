@@ -43,7 +43,7 @@ ___
 * **[Bucles (for, while)](https://github.com/URC-LCDN/python_basics/blob/main/Ciclo_For_While.ipynb)**  
 
 ### Funciones
- * **[Funciones]**  
+ * **[Funciones]()**  
 
 ### Manejo de Errores 
  * **[Palabras Reservadas](https://github.com/URC-LCDN/python_basics/blob/main/Funciones_Nativas_y_Palabras_Reservadas.ipynb)**
@@ -56,7 +56,7 @@ ___
 
  * **[¿Cómo usar los módulos?](https://github.com/URC-LCDN/python_basics/blob/main/Importar_Modulos.ipynb)**  
  * **Algunos Módulos**  
-     * **[Statics]**  
+     * **[Statics](https://github.com/URC-LCDN/python_basics/blob/main/Statistics.ipynb)**  
      * **[Numpy](https://github.com/URC-LCDN/python_basics/blob/main/Intro_Numpy.ipynb)**  
      * **[Pandas](https://github.com/URC-LCDN/python_basics/blob/main/Intro_Pandas_con_datos_del_sistema_Ajolote.ipynb)**  
 ___
