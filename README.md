@@ -50,7 +50,7 @@ ___
    
  * **[Errores Clásicos]**
    
- * **[Try-Except]**
+ * **[Try-Except](https://github.com/URC-LCDN/python_basics/blob/main/Manejos_de_Errores.ipynb)**
 
 ### Módulos/Paquetes
 
