@@ -43,7 +43,7 @@ ___
 * **[Bucles (for, while)](https://github.com/URC-LCDN/python_basics/blob/main/Ciclo_For_While.ipynb)**  
 
 ### Funciones
- * **[Funciones]()**  
+ * **[Cómo definir una función](https://github.com/URC-LCDN/python_basics/blob/main/C%C3%B3mo%20definir%20una%20funci%C3%B3ns.ipynb)**  
 
 ### Manejo de Errores 
  * **[Palabras Reservadas](https://github.com/URC-LCDN/python_basics/blob/main/Funciones_Nativas_y_Palabras_Reservadas.ipynb)**
